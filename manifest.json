@@ -1,0 +1,12 @@
+{
+    "name" : "bot Social media",
+    "version": "1.0",
+    "descrioption":"Simula usuario em rede social",
+    "browser_action":{
+        "default_popup": "index.html"
+    },
+    "manifest_version":2
+
+
+
+}
