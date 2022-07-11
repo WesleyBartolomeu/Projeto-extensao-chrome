@@ -1,0 +1,32 @@
+body {
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#btn-login {
+    background-color: #4CAF50;
+    cursor: pointer;
+    padding: 13px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    border-radius: 15px;
+    border: none;
+    box-shadow: 2px 2px rgba(0, 0, 0, 0.236);
+}
+
+#btn-coment {
+    padding: auto;
+    background-color: #4CAF50;
+    width: 85px;
+    cursor: pointer;
+    border: none;
+    border-radius: 15px;
+    margin-top: 15px;
+    padding: 13px;
+    box-shadow: 2px 2px rgba(0, 0, 0, 0.236);
+
+
+
+}
